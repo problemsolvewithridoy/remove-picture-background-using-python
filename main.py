@@ -1,3 +1,4 @@
+#please subscribe my youtube channel "Problem solve with Ridoy"
 from rembg import remove
 import time
 input_path = "ridoy1.JPG"
